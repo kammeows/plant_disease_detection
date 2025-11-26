@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+tensorflow
+numpy
+opencv-python
+pillow
+streamlit
+requests
